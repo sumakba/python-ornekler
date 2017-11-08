@@ -1,1 +1,2 @@
-# python ornekleri
+# Örnek python kod parçacýklarý.
+
