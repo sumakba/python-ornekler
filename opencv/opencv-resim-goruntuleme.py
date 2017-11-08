@@ -7,3 +7,5 @@ if resim is not None:
     cv2.destroyAllWindows()
 else:
     print("Böyle bir resim bulunmuyor.")
+
+# aynı dizinde ataturk.jpg olmalıdır.
