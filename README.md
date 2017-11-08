@@ -1,2 +1,0 @@
-# Örnek python kod parçacýklarý.
-
